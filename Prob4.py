@@ -23,3 +23,4 @@ def checkPalindrome(number):
 for x in xrange(1000,100, -1):
 	for y in xrange(1000,100, -1):
 		checkPalindrome(x * y)
+# Git test
